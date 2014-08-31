@@ -1,0 +1,5 @@
+<keybind key="W-t">
+  <action name="Execute">
+    <command>~/.translator/translator.sh</command>
+  </action>
+</keybind>
